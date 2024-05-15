@@ -58,6 +58,7 @@ void AllyArmy::Attack(GameManager *gameptr) {
         if (Interactive) cout << "SU" << *tempSU << "shots[ ";
         tempSU->Attack(gameptr);
         if (Interactive) cout << " ]" << endl;
+        AddSU(tempSU);
     } else {
         if (Interactive == true) cout << "No enough SU to attack\n";
     }
