@@ -1,0 +1,110 @@
+ Td        ID        Tj        Df        Dd        Db
+  6         4         6         0         0         0
+  6         5         6         0         0         0
+  6         3         6         0         0         0
+  6         1         6         0         0         0
+  7         2         6         0         1         1
+  7        13         7         0         0         0
+  7         7         6         0         1         1
+  7        10         7         0         0         0
+  7        12         7         0         0         0
+  7        14         7         0         0         0
+  7         9         7         0         0         0
+  8        11         7         0         1         1
+ 11        20        11         0         0         0
+ 11        18        11         0         0         0
+ 11        21        11         0         0         0
+ 11        16        11         0         0         0
+ 15        27        15         0         0         0
+ 15        22        15         0         0         0
+ 15        28        15         0         0         0
+ 15        23        15         0         0         0
+ 15        26        15         0         0         0
+ 15        25        15         0         0         0
+ 16        24        15         0         1         1
+ 20        31        20         0         0         0
+ 20        32        20         0         0         0
+ 20        29        20         0         0         0
+ 20         6         6         0        14        14
+ 20         8         7         0        13        13
+ 20        33        20         0        20         0
+ 21        36        21         0         0         0
+ 21        30        20         0         1         1
+ 21        40        21         0         0         0
+ 21        37        21         0         0         0
+ 21        39        21         0         0         0
+ 21        42        21         0         0         0
+ 21        38        21         0         0         0
+ 22        49        22         0         0         0
+ 22        46        22         0         0         0
+ 22        44        22         0         0         0
+ 22        41        21         0         1         1
+ 22        48        22         0         0         0
+ 22        47        22         0         0         0
+ 23        54        23         0         0         0
+ 23        50        23         0         0         0
+ 23        55        23         0         0         0
+ 23        43        22         0         1         1
+ 23        52        23         0         0         0
+ 23        56        23         0         0         0
+ 28        58        28         0         0         0
+ 28        59        28         0         0         0
+ 28        57        28         0         0         0
+ 28        62        28         0         0         0
+ 29        61        28         0         1         1
+ 30        65        30         0         0         0
+ 30        64        30         0         0         0
+ 30        68        30         0         0         0
+ 31        72        31         0         0         0
+ 31        74        31         0         0         0
+ 31        69        30         0         1         1
+ 32        71        31         0         1         1
+ 33        75        31         0         2         2
+ 36        80        36         0         0         0
+ 36        83        36         0         0         0
+ 36        78        36         0         0         0
+ 36        84        36         0         0         0
+ 37        82        36         0         1         1
+ 37        79        36         0         1         1
+
+Battle result: Loss
+The battle ended at Timestep: 41
+For Earth Army:
+Total Number of Each Units:
+Earth Soldiers: 34
+Earth Gunneries: 14
+Earth Tanks: 35
+Heal Units: 1
+
+Percentage of destructed units relative to their count:
+Earth Soldiers: 64.7059%
+Earth Gunneries: 100%
+Earth Tanks: 85.7143%
+Heal Units: 100%
+
+
+For Alien Army:
+Total Number of Each Units:
+Alien Soldiers: 47
+Alien Monsters: 22
+Alien Drones: 15
+
+Percentage of destructed units relative to their count:
+Alien Soldiers: 0%
+Alien Monsters: 0%
+Alien Drones: 0%
+
+For Ally Army:
+Total Number of Each Units:
+Saver Units: 0
+Percentage of destructed units relative to their count:
+Saver Units: 0%
+Percentage of infected soldier: 35.2941%
+
+Total Percentage of destructed units for the 3 armies: 39.881%
+Average of First Attack Delay (Df): 0
+Average of Destruction Delay (Dd): 0.910448
+Average of Battle Time (Db): 0.61194
+
+Df/Db: 0%
+Dd/Db: 148.78%

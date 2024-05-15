@@ -1,0 +1,200 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="DS_AlienInvasion"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="D:/Uni/Sophmore/Second Term/CMPS103-Data Structures and Algorithms/DS_AlienInvasion_Final/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="D:/CLion 2023.3.4/bin/mingw/bin/mingw32-make.exe -f &quot;D:/Uni/Sophmore/Second Term/CMPS103-Data Structures and Algorithms/DS_AlienInvasion_Final/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="D:/CLion 2023.3.4/bin/mingw/bin/mingw32-make.exe -f &quot;D:/Uni/Sophmore/Second Term/CMPS103-Data Structures and Algorithms/DS_AlienInvasion_Final/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="D:/CLion 2023.3.4/bin/mingw/bin/mingw32-make.exe -f &quot;D:/Uni/Sophmore/Second Term/CMPS103-Data Structures and Algorithms/DS_AlienInvasion_Final/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="D:/CLion 2023.3.4/bin/mingw/bin/mingw32-make.exe -f &quot;D:/Uni/Sophmore/Second Term/CMPS103-Data Structures and Algorithms/DS_AlienInvasion_Final/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="DS_AlienInvasion">
+				<Option output="D:/Uni/Sophmore/Second Term/CMPS103-Data Structures and Algorithms/DS_AlienInvasion_Final/cmake-build-debug/DS_AlienInvasion.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="D:/Uni/Sophmore/Second Term/CMPS103-Data Structures and Algorithms/DS_AlienInvasion_Final/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="D:/CLion 2023.3.4/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++"/>
+					<Add directory="D:/CLion 2023.3.4/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/x86_64-w64-mingw32"/>
+					<Add directory="D:/CLion 2023.3.4/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/backward"/>
+					<Add directory="D:/CLion 2023.3.4/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/include"/>
+					<Add directory="D:/CLion 2023.3.4/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/../../../../include"/>
+					<Add directory="D:/CLion 2023.3.4/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/include-fixed"/>
+					<Add directory="D:/CLion 2023.3.4/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="D:/CLion 2023.3.4/bin/mingw/bin/mingw32-make.exe -f &quot;D:/Uni/Sophmore/Second Term/CMPS103-Data Structures and Algorithms/DS_AlienInvasion_Final/cmake-build-debug/Makefile&quot;  VERBOSE=1 DS_AlienInvasion"/>
+					<CompileFile command="D:/CLion 2023.3.4/bin/mingw/bin/mingw32-make.exe -f &quot;D:/Uni/Sophmore/Second Term/CMPS103-Data Structures and Algorithms/DS_AlienInvasion_Final/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="D:/CLion 2023.3.4/bin/mingw/bin/mingw32-make.exe -f &quot;D:/Uni/Sophmore/Second Term/CMPS103-Data Structures and Algorithms/DS_AlienInvasion_Final/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="D:/CLion 2023.3.4/bin/mingw/bin/mingw32-make.exe -f &quot;D:/Uni/Sophmore/Second Term/CMPS103-Data Structures and Algorithms/DS_AlienInvasion_Final/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="DS_AlienInvasion/fast">
+				<Option output="D:/Uni/Sophmore/Second Term/CMPS103-Data Structures and Algorithms/DS_AlienInvasion_Final/cmake-build-debug/DS_AlienInvasion.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="D:/Uni/Sophmore/Second Term/CMPS103-Data Structures and Algorithms/DS_AlienInvasion_Final/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="D:/CLion 2023.3.4/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++"/>
+					<Add directory="D:/CLion 2023.3.4/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/x86_64-w64-mingw32"/>
+					<Add directory="D:/CLion 2023.3.4/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/backward"/>
+					<Add directory="D:/CLion 2023.3.4/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/include"/>
+					<Add directory="D:/CLion 2023.3.4/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/../../../../include"/>
+					<Add directory="D:/CLion 2023.3.4/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/include-fixed"/>
+					<Add directory="D:/CLion 2023.3.4/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="D:/CLion 2023.3.4/bin/mingw/bin/mingw32-make.exe -f &quot;D:/Uni/Sophmore/Second Term/CMPS103-Data Structures and Algorithms/DS_AlienInvasion_Final/cmake-build-debug/Makefile&quot;  VERBOSE=1 DS_AlienInvasion/fast"/>
+					<CompileFile command="D:/CLion 2023.3.4/bin/mingw/bin/mingw32-make.exe -f &quot;D:/Uni/Sophmore/Second Term/CMPS103-Data Structures and Algorithms/DS_AlienInvasion_Final/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="D:/CLion 2023.3.4/bin/mingw/bin/mingw32-make.exe -f &quot;D:/Uni/Sophmore/Second Term/CMPS103-Data Structures and Algorithms/DS_AlienInvasion_Final/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="D:/CLion 2023.3.4/bin/mingw/bin/mingw32-make.exe -f &quot;D:/Uni/Sophmore/Second Term/CMPS103-Data Structures and Algorithms/DS_AlienInvasion_Final/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="D:/Uni/Sophmore/Second Term/CMPS103-Data Structures and Algorithms/DS_AlienInvasion_Final/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="D:/CLion 2023.3.4/bin/mingw/bin/mingw32-make.exe -f &quot;D:/Uni/Sophmore/Second Term/CMPS103-Data Structures and Algorithms/DS_AlienInvasion_Final/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="D:/CLion 2023.3.4/bin/mingw/bin/mingw32-make.exe -f &quot;D:/Uni/Sophmore/Second Term/CMPS103-Data Structures and Algorithms/DS_AlienInvasion_Final/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="D:/CLion 2023.3.4/bin/mingw/bin/mingw32-make.exe -f &quot;D:/Uni/Sophmore/Second Term/CMPS103-Data Structures and Algorithms/DS_AlienInvasion_Final/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="D:/CLion 2023.3.4/bin/mingw/bin/mingw32-make.exe -f &quot;D:/Uni/Sophmore/Second Term/CMPS103-Data Structures and Algorithms/DS_AlienInvasion_Final/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="D:/Uni/Sophmore/Second Term/CMPS103-Data Structures and Algorithms/DS_AlienInvasion_Final/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="D:/CLion 2023.3.4/bin/mingw/bin/mingw32-make.exe -f &quot;D:/Uni/Sophmore/Second Term/CMPS103-Data Structures and Algorithms/DS_AlienInvasion_Final/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="D:/CLion 2023.3.4/bin/mingw/bin/mingw32-make.exe -f &quot;D:/Uni/Sophmore/Second Term/CMPS103-Data Structures and Algorithms/DS_AlienInvasion_Final/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="D:/CLion 2023.3.4/bin/mingw/bin/mingw32-make.exe -f &quot;D:/Uni/Sophmore/Second Term/CMPS103-Data Structures and Algorithms/DS_AlienInvasion_Final/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="D:/CLion 2023.3.4/bin/mingw/bin/mingw32-make.exe -f &quot;D:/Uni/Sophmore/Second Term/CMPS103-Data Structures and Algorithms/DS_AlienInvasion_Final/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="D:/Uni/Sophmore/Second Term/CMPS103-Data Structures and Algorithms/DS_AlienInvasion_Final/Armies/AlienArmy.cpp">
+			<Option target="DS_AlienInvasion"/>
+		</Unit>
+		<Unit filename="D:/Uni/Sophmore/Second Term/CMPS103-Data Structures and Algorithms/DS_AlienInvasion_Final/Armies/AlienArmy.h">
+			<Option target="DS_AlienInvasion"/>
+		</Unit>
+		<Unit filename="D:/Uni/Sophmore/Second Term/CMPS103-Data Structures and Algorithms/DS_AlienInvasion_Final/Armies/AllyArmy.cpp">
+			<Option target="DS_AlienInvasion"/>
+		</Unit>
+		<Unit filename="D:/Uni/Sophmore/Second Term/CMPS103-Data Structures and Algorithms/DS_AlienInvasion_Final/Armies/AllyArmy.h">
+			<Option target="DS_AlienInvasion"/>
+		</Unit>
+		<Unit filename="D:/Uni/Sophmore/Second Term/CMPS103-Data Structures and Algorithms/DS_AlienInvasion_Final/Armies/EarthArmy.cpp">
+			<Option target="DS_AlienInvasion"/>
+		</Unit>
+		<Unit filename="D:/Uni/Sophmore/Second Term/CMPS103-Data Structures and Algorithms/DS_AlienInvasion_Final/Armies/EarthArmy.h">
+			<Option target="DS_AlienInvasion"/>
+		</Unit>
+		<Unit filename="D:/Uni/Sophmore/Second Term/CMPS103-Data Structures and Algorithms/DS_AlienInvasion_Final/DataStructures/DEqueue.h">
+			<Option target="DS_AlienInvasion"/>
+		</Unit>
+		<Unit filename="D:/Uni/Sophmore/Second Term/CMPS103-Data Structures and Algorithms/DS_AlienInvasion_Final/DataStructures/Monsters_arr.cpp">
+			<Option target="DS_AlienInvasion"/>
+		</Unit>
+		<Unit filename="D:/Uni/Sophmore/Second Term/CMPS103-Data Structures and Algorithms/DS_AlienInvasion_Final/DataStructures/Monsters_arr.h">
+			<Option target="DS_AlienInvasion"/>
+		</Unit>
+		<Unit filename="D:/Uni/Sophmore/Second Term/CMPS103-Data Structures and Algorithms/DS_AlienInvasion_Final/DataStructures/PriorityQueue.h">
+			<Option target="DS_AlienInvasion"/>
+		</Unit>
+		<Unit filename="D:/Uni/Sophmore/Second Term/CMPS103-Data Structures and Algorithms/DS_AlienInvasion_Final/DataStructures/Queue.h">
+			<Option target="DS_AlienInvasion"/>
+		</Unit>
+		<Unit filename="D:/Uni/Sophmore/Second Term/CMPS103-Data Structures and Algorithms/DS_AlienInvasion_Final/DataStructures/QueueADT.h">
+			<Option target="DS_AlienInvasion"/>
+		</Unit>
+		<Unit filename="D:/Uni/Sophmore/Second Term/CMPS103-Data Structures and Algorithms/DS_AlienInvasion_Final/DataStructures/Stack.h">
+			<Option target="DS_AlienInvasion"/>
+		</Unit>
+		<Unit filename="D:/Uni/Sophmore/Second Term/CMPS103-Data Structures and Algorithms/DS_AlienInvasion_Final/DataStructures/StackADT.h">
+			<Option target="DS_AlienInvasion"/>
+		</Unit>
+		<Unit filename="D:/Uni/Sophmore/Second Term/CMPS103-Data Structures and Algorithms/DS_AlienInvasion_Final/DataStructures/priNode.h">
+			<Option target="DS_AlienInvasion"/>
+		</Unit>
+		<Unit filename="D:/Uni/Sophmore/Second Term/CMPS103-Data Structures and Algorithms/DS_AlienInvasion_Final/GameManager/GameManager.cpp">
+			<Option target="DS_AlienInvasion"/>
+		</Unit>
+		<Unit filename="D:/Uni/Sophmore/Second Term/CMPS103-Data Structures and Algorithms/DS_AlienInvasion_Final/GameManager/GameManager.h">
+			<Option target="DS_AlienInvasion"/>
+		</Unit>
+		<Unit filename="D:/Uni/Sophmore/Second Term/CMPS103-Data Structures and Algorithms/DS_AlienInvasion_Final/Units/AD.cpp">
+			<Option target="DS_AlienInvasion"/>
+		</Unit>
+		<Unit filename="D:/Uni/Sophmore/Second Term/CMPS103-Data Structures and Algorithms/DS_AlienInvasion_Final/Units/AD.h">
+			<Option target="DS_AlienInvasion"/>
+		</Unit>
+		<Unit filename="D:/Uni/Sophmore/Second Term/CMPS103-Data Structures and Algorithms/DS_AlienInvasion_Final/Units/AM.cpp">
+			<Option target="DS_AlienInvasion"/>
+		</Unit>
+		<Unit filename="D:/Uni/Sophmore/Second Term/CMPS103-Data Structures and Algorithms/DS_AlienInvasion_Final/Units/AM.h">
+			<Option target="DS_AlienInvasion"/>
+		</Unit>
+		<Unit filename="D:/Uni/Sophmore/Second Term/CMPS103-Data Structures and Algorithms/DS_AlienInvasion_Final/Units/AS.cpp">
+			<Option target="DS_AlienInvasion"/>
+		</Unit>
+		<Unit filename="D:/Uni/Sophmore/Second Term/CMPS103-Data Structures and Algorithms/DS_AlienInvasion_Final/Units/AS.h">
+			<Option target="DS_AlienInvasion"/>
+		</Unit>
+		<Unit filename="D:/Uni/Sophmore/Second Term/CMPS103-Data Structures and Algorithms/DS_AlienInvasion_Final/Units/EG.cpp">
+			<Option target="DS_AlienInvasion"/>
+		</Unit>
+		<Unit filename="D:/Uni/Sophmore/Second Term/CMPS103-Data Structures and Algorithms/DS_AlienInvasion_Final/Units/EG.h">
+			<Option target="DS_AlienInvasion"/>
+		</Unit>
+		<Unit filename="D:/Uni/Sophmore/Second Term/CMPS103-Data Structures and Algorithms/DS_AlienInvasion_Final/Units/ES.cpp">
+			<Option target="DS_AlienInvasion"/>
+		</Unit>
+		<Unit filename="D:/Uni/Sophmore/Second Term/CMPS103-Data Structures and Algorithms/DS_AlienInvasion_Final/Units/ES.h">
+			<Option target="DS_AlienInvasion"/>
+		</Unit>
+		<Unit filename="D:/Uni/Sophmore/Second Term/CMPS103-Data Structures and Algorithms/DS_AlienInvasion_Final/Units/ET.cpp">
+			<Option target="DS_AlienInvasion"/>
+		</Unit>
+		<Unit filename="D:/Uni/Sophmore/Second Term/CMPS103-Data Structures and Algorithms/DS_AlienInvasion_Final/Units/ET.h">
+			<Option target="DS_AlienInvasion"/>
+		</Unit>
+		<Unit filename="D:/Uni/Sophmore/Second Term/CMPS103-Data Structures and Algorithms/DS_AlienInvasion_Final/Units/HU.cpp">
+			<Option target="DS_AlienInvasion"/>
+		</Unit>
+		<Unit filename="D:/Uni/Sophmore/Second Term/CMPS103-Data Structures and Algorithms/DS_AlienInvasion_Final/Units/HU.h">
+			<Option target="DS_AlienInvasion"/>
+		</Unit>
+		<Unit filename="D:/Uni/Sophmore/Second Term/CMPS103-Data Structures and Algorithms/DS_AlienInvasion_Final/Units/SU.cpp">
+			<Option target="DS_AlienInvasion"/>
+		</Unit>
+		<Unit filename="D:/Uni/Sophmore/Second Term/CMPS103-Data Structures and Algorithms/DS_AlienInvasion_Final/Units/SU.h">
+			<Option target="DS_AlienInvasion"/>
+		</Unit>
+		<Unit filename="D:/Uni/Sophmore/Second Term/CMPS103-Data Structures and Algorithms/DS_AlienInvasion_Final/Units/Unit.h">
+			<Option target="DS_AlienInvasion"/>
+		</Unit>
+		<Unit filename="D:/Uni/Sophmore/Second Term/CMPS103-Data Structures and Algorithms/DS_AlienInvasion_Final/main.cpp">
+			<Option target="DS_AlienInvasion"/>
+		</Unit>
+		<Unit filename="D:/Uni/Sophmore/Second Term/CMPS103-Data Structures and Algorithms/DS_AlienInvasion_Final/randGen/randGen.cpp">
+			<Option target="DS_AlienInvasion"/>
+		</Unit>
+		<Unit filename="D:/Uni/Sophmore/Second Term/CMPS103-Data Structures and Algorithms/DS_AlienInvasion_Final/randGen/randGen.h">
+			<Option target="DS_AlienInvasion"/>
+		</Unit>
+		<Unit filename="D:/Uni/Sophmore/Second Term/CMPS103-Data Structures and Algorithms/DS_AlienInvasion_Final/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>

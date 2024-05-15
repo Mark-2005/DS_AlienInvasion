@@ -1,0 +1,139 @@
+ Td        ID        Tj        Df        Dd        Db
+  4      2000         4         0         0         0
+  4      2003         4         0         0         0
+  4      2002         4         0         0         0
+  4      2001         4         0         0         0
+  4      2006         4         0         0         0
+  7      2004         4         0         3         3
+  7      2005         4         0         3         3
+  8      2012         8         0         0         0
+  8      2008         8         0         0         0
+  8         5         4         0         4         4
+  9      2018         9         0         0         0
+  9        11         8         0         1         1
+  9         6         4         0         5         5
+ 10      2007         8         0         2         2
+ 10      2009         8         0         2         2
+ 10      2010         8         0         2         2
+ 10      2019         9         0         1         1
+ 10      2014         9         0         1         1
+ 11      2020         9         1         1         2
+ 11      2017         9         0         2         2
+ 11      2024        11         0         0         0
+ 11        25        11         0         0         0
+ 11         7         4         0        11         7
+ 12      2021        11         0         1         1
+ 12      2022        11         0         1         1
+ 12      2023        11         0         1         1
+ 13      2016         9         0         4         4
+ 13      2027        11         1         1         2
+ 13      2011         8         0         5         5
+ 13      2013         8         0         5         5
+ 13      2025        11         0         2         2
+ 14      2015         9         0         5         5
+ 14        27        11         0         3         3
+ 14        17         9         0         5         5
+ 15      2034        15         0         0         0
+ 15      2033        15         0         0         0
+ 15      2031        15         0         0         0
+ 16      2032        15         0         1         1
+ 16      2030        15         0         1         1
+ 16        29        15         0         1         1
+ 16        30        15         0         1         1
+ 18      2028        15         0         3         3
+ 19      2026        11         1         7         8
+ 19      2029        15         0         4         4
+ 19      2035        19         0         0         0
+ 19      2038        19         0         0         0
+ 19      2039        19         0         0         0
+ 20      2040        19         0         1         1
+ 20      2041        19         0         1         1
+ 20      2047        20         0         0         0
+ 20      2044        20         0         0         0
+ 20      2046        20         0         0         0
+ 20        37        19         0         1         1
+ 21      2043        20         0         1         1
+ 21      2045        20         0         1         1
+ 21      2042        20         0         1         1
+ 24      2037        19         0         5         5
+ 24      2036        19         0         5         5
+ 26      2052        26         0         0         0
+ 26      2053        26         0         0         0
+ 26        28        11         0        15        15
+ 26        51        26         0        26         0
+ 27        56        26         0         1         1
+ 27      2051        26         0         1         1
+ 27      2049        26         0         1         1
+ 27      2050        26         0         1         1
+ 30      2057        30         0         0         0
+ 30      2059        30         0         0         0
+ 30        62        30         0         0         0
+ 30        60        30         0        30         0
+ 31        55        26         0         5         5
+ 31      2058        30         0         1         1
+ 31      2060        30         0         1         1
+ 32      2065        32         0         0         0
+ 32      2064        32         0         0         0
+ 32      2068        32         0         0         0
+ 32      2063        32         0         0         0
+ 32        70        32         0        32         0
+ 33      2071        33         0         0         0
+ 33      2073        33         0         0         0
+ 33      2069        32         0         1         1
+ 34      2055        26         0         8         8
+ 34      2048        20         4        10        14
+ 34      2076        33         0         1         1
+ 34        76        33         0         1         1
+ 34        52        26         0         8         8
+ 35      2066        32         3         0         3
+ 36      2054        26         0        10        10
+ 36      2056        30         4         2         6
+ 36      2061        30         5         1         6
+ 36      2067        32         3         1         4
+ 36      2074        33         2         1         3
+ 37      2075        33         2         2         4
+ 37      2062        30         5         2         7
+ 37      2070        33         2         2         4
+ 39      2072        33         2         4         6
+
+Battle result: Win
+The battle ended at Timestep: 41
+For Earth Army:
+Total Number of Each Units:
+Earth Soldiers: 22
+Earth Gunneries: 29
+Earth Tanks: 22
+Heal Units: 4
+
+Percentage of destructed units relative to their count:
+Earth Soldiers: 68.1818%
+Earth Gunneries: 0%
+Earth Tanks: 0%
+Heal Units: 100%
+
+
+For Alien Army:
+Total Number of Each Units:
+Alien Soldiers: 37
+Alien Monsters: 36
+Alien Drones: 4
+
+Percentage of destructed units relative to their count:
+Alien Soldiers: 100%
+Alien Monsters: 100%
+Alien Drones: 100%
+
+For Ally Army:
+Total Number of Each Units:
+Saver Units: 0
+Percentage of destructed units relative to their count:
+Saver Units: 0%
+Percentage of infected soldier: 45.4545%
+
+Total Percentage of destructed units for the 3 armies: 62.3377%
+Average of First Attack Delay (Df): 0.364583
+Average of Destruction Delay (Dd): 2.84375
+Average of Battle Time (Db): 2.25
+
+Df/Db: 16.2037%
+Dd/Db: 126.389%
